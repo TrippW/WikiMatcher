@@ -28,6 +28,6 @@ setup(
         'urllib3>=1.25',
 		'strsimpy>=0.1.3'
     ],
-	packages=find_packages(include=['wiki_matcher']),
-    version='0.0.1'
+	packages=['wiki_matcher'],
+    version='0.0.2'
 )
