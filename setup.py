@@ -20,7 +20,7 @@ setup(
     ],
     project_urls={
         'Funding':'https://ko-fi.com/devtripp',
-        'Source': 'https://github.com/pypa/sampleproject/'
+        'Source': 'https://github.com/TrippW/WikiMatcher'
     },
     install_requires=[
         'beautifulsoup4>=4.8.0',
