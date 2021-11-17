@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='wiki_matcher',
     maintainer='Tripp Weiner',
-    url="https://github.com/blueyed/pytest-enhancements",
+    url='https://github.com/TrippW/WikiMatcher',
     author='Tripp Weiner',
     description='Wiki Parsing and Loose Matching Aid',
     long_description='Wraps the reading, managing, caching, parsing, and matching of phrases found in specified html pages',
